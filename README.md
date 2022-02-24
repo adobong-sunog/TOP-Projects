@@ -1,4 +1,4 @@
-# Hello there
+# Hello there 👋
 This is just a list of all the projects that I made for The Odin Project. All of them are available for live preview
 
 # Note
