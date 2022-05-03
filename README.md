@@ -10,7 +10,7 @@ This is just a list of all the projects that I made for The Odin Project. All of
 > Ordered by date completed
 
 * [Recipes](https://github.com/AncientSoup/odin-recipes)
-*
+* [Landing-page](https://github.com/AncientSoup/Landing-page)
 *
 
 # About The Odin Project
