@@ -11,7 +11,7 @@ This is just a list of all the projects that I made for The Odin Project. All of
 
 * [Recipes](https://github.com/AncientSoup/odin-recipes)
 * [Landing-page](https://github.com/AncientSoup/Landing-page)
-*
+* [Rock-paper-scissors](https://github.com/AncientSoup/rock-paper-scissors)
 
 ## About The Odin Project
 > High quality coding education created by an Open-Source community.
