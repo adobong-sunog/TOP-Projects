@@ -2,6 +2,8 @@
 This is just a list of all the projects that I made for The Odin Project. All of them are available for live preview
 
 ## Note
+**(Currently doing a re-run of the projects as I got busy with university and other stuff, so most of the projects that are listed will be unavailable at the moment)**
+
 **This list is currently incomplete**, but the projects will be based from The Odin Project's:
 * [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 * [Full stack JavaScript path](https://www.theodinproject.com/paths/full-stack-javascript)
