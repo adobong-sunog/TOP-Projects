@@ -1,3 +1,4 @@
+# UNFINISHED, IGNORE THIS REPO FOR NOW
 # Hello,
 This is just a list of all the projects that I made for The Odin Project. All of them are available for live preview
 
